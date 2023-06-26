@@ -48,7 +48,7 @@
     "@types/react-helmet": "^6.1.6",
     "@types/react-router-dom": "^5.3.3",
     "@types/testing-library__jest-dom": "^5.14.6",
-    "date-fns": "^2.29.3",
+    "date-fns": "^2.30.0",
     "docusaurus-plugin-typedoc": "^0.19.2",
     "eslint": "^8.39.0",
     "eslint-config-rdp": "workspace:^",
